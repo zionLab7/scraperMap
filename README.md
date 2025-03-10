@@ -69,8 +69,11 @@ python scraperMap.py
 ```
 
 O script solicitará algumas informações:
+
 1️⃣ **Categoria/Nicho** (Exemplo: `Restaurantes`, `Autoescola`, `Clínicas Médicas`).
+
 2️⃣ **Região** (Exemplo: `São Paulo, SP`).
+
 3️⃣ **Quantidade de empresas** (Digite `0` para coletar todas disponíveis).
 
 Os resultados serão salvos automaticamente em **`resultados.csv`** no mesmo diretório do script.

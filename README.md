@@ -69,7 +69,7 @@ pip3 install -r requirements.txt
 
 Após instalar as dependências, execute o scraper com:
 ```bash
-python scraperMap.py
+python scraperMaps.py
 ```
 
 O script solicitará algumas informações:

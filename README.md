@@ -7,9 +7,13 @@ Este é um **web scraper** que coleta informações de empresas no **Google Maps
 ## 🚀 Funcionalidades
 
 ✔ **Pesquisa empresas** no **Google Maps** com base na categoria e região fornecidas.
+
 ✔ Extrai **Nome, Telefone, Endereço, Website, E-mail e Categoria**.
+
 ✔ O usuário **define a quantidade de empresas** a coletar (ou sem limite se escolher `0`).
+
 ✔ **Exporta os dados para CSV** automaticamente.
+
 ✔ Suporte para **Windows, macOS e Linux**.
 
 ---

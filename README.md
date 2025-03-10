@@ -29,8 +29,8 @@ Este é um **web scraper** que coleta informações de empresas no **Google Maps
 Abra o terminal (**Windows**: `cmd` ou `PowerShell`, **macOS/Linux**: `Terminal`) e execute:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/zionLab7/scraperMap.git
+cd scraperMap
 ```
 
 ### 3️⃣ Criar um ambiente virtual (recomendado)
